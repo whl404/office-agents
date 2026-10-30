@@ -1,0 +1,22 @@
+{
+  "formatVersion": 1,
+  "version": "1.0.0",
+  "files": {
+    "agents/office-developer.toml": "3453edbeb0c388f1e90c0671e2a4e36f604ab8ec254b0ebc9a54adfd57266071",
+    "agents/office-dingtalk.toml": "28c22bb683ddbffb86c0f90f38f52b17f15f7042aca4928c1f4e0eac9483fb85",
+    "agents/office-gitlab.toml": "e1c30b2b75b74239491d45e487905f7300931f2a1ba7dbec990014e1b2e1ad69",
+    "agents/office-orchestrator.toml": "1c10ac71a8cca6c1d3210e93f0ccc0478f9d735d9db3e4cee43c15a5e8a1cf49",
+    "agents/office-reviewer.toml": "ddac67f6b526941891c0c6481d909f31004b04113784266bbf4d7e5559a50e1b",
+    "agents/office-teambition.toml": "90d35d47dac2029bd99d7d2c8c405c523218365974194845d7cf7ce1796c6627",
+    "install.ps1": "88852ff482fa80daa118501d28565750d753f6f884783b61d51f483cc7322a06",
+    "install.py": "5fb597961de54f79a7b547eaef9a11e53512f92ee6ed00ed945a4c94b492e397",
+    "README.md": "f9fd66a5cc8b3f54e83c263917d6914c9d09ddc7cd3c5ab62afeac565a1c1269",
+    "skills/create-prod-mr/SKILL.md": "a114a4bc5ecb67d1b7609984eb0cf4951c2d78cbad8357430c9ff4d29c2fe64d",
+    "skills/create-test-mr/SKILL.md": "793a448ea646f9d3232b69034a796ab704c867b925c351fea924786a886e693b",
+    "skills/development-handoff/SKILL.md": "0983b245eb1962dc94f61775889b37a262cade21494fb3953e4b154e9966c038",
+    "templates/AGENTS.md.example": "5254939031d6e7edebd5e49554c63a3185c625fdaa05f94cf665a9f7c594d036",
+    "templates/state.json": "1e64aa9a16d63f280bda6da513a81c9a959b833930fa7b2614af81f6bf09184f",
+    "templates/workspace.json": "7d127b8ba21f23d9d27db2f7a6dd2ee8d141aed3da020f8f965eba834c33972b",
+    "update-from-git.ps1": "c948f42f870807eae47a424d5f6a298fe8227ebdedf7f802eef73001eea45cf2"
+  }
+}
