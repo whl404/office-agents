@@ -6,7 +6,7 @@
 
 ## 下载和安装
 
-下载 [v1.0.0 ZIP](releases/office-agents-1.0.0.zip)，解压并进入 office-agents 目录：
+下载 [v1.0.1 ZIP](releases/office-agents-1.0.1.zip)，解压并进入 office-agents 目录：
 
 ```powershell
 python install.py check
@@ -26,6 +26,6 @@ python install.py install
 
 只更新本包管理的角色和技能，保留工作区绑定、运行记录与监听开关。更新前备份；发现本地修改会停止，禁止静默覆盖。执行本地安装器，不运行下载的脚本。
 
-详见 [安装、配置和更新说明](distribution/office-agents/README.md)。[ZIP SHA-256](releases/office-agents-1.0.0.zip.sha256)。
+详见 [安装、配置和更新说明](distribution/office-agents/README.md)。[ZIP SHA-256](releases/office-agents-1.0.1.zip.sha256)。
 
 本包提供角色与流程指令，不包含常驻服务、业务账号、自动化授权或程序级权限隔离；部署与数据库操作仍遵守实际工具审批。
